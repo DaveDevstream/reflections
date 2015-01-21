@@ -1,4 +1,4 @@
-####
+1####
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
 By being able to correct mistakes easily and reverting back to a copy where the mistake did not exist.
@@ -12,21 +12,21 @@ git diff command operates on commits
 ####
 
 
-####
+2####
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
 
 it's good to make meaningful commits to represent one unit of work. An autosave function might save in the middle of creating a new method for program where it does not work, causing confusion when you load it again. 
 ####
 
 
-####
+3####
 Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 
 A change in a program can be accross different files so it is better to allow saves on multiple files.
 ####
 
 
-####
+4####
 How can you use the commands git log and git diff to view the history of files?
 
 type git log to see all the commits. press space or the down arrow to continue seeing them
@@ -34,8 +34,14 @@ type git diff and the id of a commit and the one below it to see the differences
 remember to press down to see them all.
 ####
 
-####
+5####
 How might using version control make you more confident to make changes that could break something?
 
 You can commit something, make changes and if it doesn't work out, you can revert to the commit you made before things went wrong.
 ####
+
+6#####
+Now that you have your workspace set up, what do you want to try using Git for?
+
+collaborating on an android project.
+#####

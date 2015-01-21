@@ -1,7 +1,15 @@
-####
+1####
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 staging area may or maybe not contain all the files in a WD
 It only contains the files I changed which I want to make a save point for.
 I may have changed other files but want to create another commit with them included.
+####
+
+2####
+How can you use the staging area to make sure you have one commit per logical change?
+
+Maybe you fixed two things in two different files at the same time but you want to add each fix as a seperate commit
+you can then add file1 to the staging area, commit that by writing something meaningful and then add file2 and repeat the process
+you will than have added one commit for each fix making the repo more meaningful.
 ####

@@ -1,0 +1,5 @@
+####
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+By being able to correct mistakes easily and reverting back to a copy where the mistake did not exist.
+####

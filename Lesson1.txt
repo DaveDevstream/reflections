@@ -2,4 +2,18 @@
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
 By being able to correct mistakes easily and reverting back to a copy where the mistake did not exist.
+commits are like checkpoints
+each represents a version of the content at one point in time.
+git forces you to write a description on each commit.
+
+git is a type of version control
+commits are a part of git
+git diff command operates on commits
 ####
+
+
+###
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+it's good to make meaningful commits to represent one unit of work. An autosave function might save in the middle of creating a new method for program where it does not work, causing confusion when you load it again. 
+##

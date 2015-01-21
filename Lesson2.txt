@@ -13,3 +13,9 @@ Maybe you fixed two things in two different files at the same time but you want 
 you can then add file1 to the staging area, commit that by writing something meaningful and then add file2 and repeat the process
 you will than have added one commit for each fix making the repo more meaningful.
 ####
+
+3####
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If I wanted to test out a new feature but keep the master clean, then merge later 
+####

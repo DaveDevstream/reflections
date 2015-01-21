@@ -12,8 +12,15 @@ git diff command operates on commits
 ####
 
 
-###
+####
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
 
 it's good to make meaningful commits to represent one unit of work. An autosave function might save in the middle of creating a new method for program where it does not work, causing confusion when you load it again. 
-##
+####
+
+
+####
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+A change in a program can be accross different files so it is better to allow saves on multiple files.
+####

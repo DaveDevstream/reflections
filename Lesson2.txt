@@ -1,0 +1,7 @@
+####
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area may or maybe not contain all the files in a WD
+It only contains the files I changed which I want to make a save point for.
+I may have changed other files but want to create another commit with them included.
+####

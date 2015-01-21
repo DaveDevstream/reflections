@@ -33,3 +33,9 @@ type git log to see all the commits. press space or the down arrow to continue s
 type git diff and the id of a commit and the one below it to see the differences between them
 remember to press down to see them all.
 ####
+
+####
+How might using version control make you more confident to make changes that could break something?
+
+You can commit something, make changes and if it doesn't work out, you can revert to the commit you made before things went wrong.
+####

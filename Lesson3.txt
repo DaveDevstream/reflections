@@ -17,3 +17,10 @@ you could clone a repo which you have been made a colloborator of.
 a branch is a when you want to develop a new feature or try something out without ruining the working code in the master branch.
 you can easily return back to when the code was stable before you branched....or you could decide to merge the branch back into master when it is working correctly.
 ####
+
+3#########
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+
+you can quickly check how for ahead you are of it. 
+###################

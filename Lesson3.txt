@@ -26,3 +26,5 @@ you can quickly check how for ahead you are of it.
 
 
 Making a change on my local repo to test fetching, pulling, pusing and merging
+
+Making another change on my local repo to test whehter it will tell me I am ahead again by running git status

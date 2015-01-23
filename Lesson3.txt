@@ -3,3 +3,17 @@ When would you want to use a remote repository rather than keeping all your work
 
 When you want to back-up work or share work
 ####
+
+2####
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+a fork is a copy of a repo on github, to your own github account. you can then pull it to your local machine, edit and push back to the remote.
+you can not push changes to the repo which was forked unless you were added as a collobaroator. 
+This new forked repo will exist outside of the original.
+
+A clone is a repo which you pulled down to a local machine. once you push it back up to your own account, it could be called a fork.
+you could clone a repo which you have been made a colloborator of.
+
+a branch is a when you want to develop a new feature or try something out without ruining the working code in the master branch.
+you can easily return back to when the code was stable before you branched....or you could decide to merge the branch back into master when it is working correctly.
+####

@@ -28,3 +28,6 @@ does git fetch origin work?
 Making a change on my local repo to test fetching, pulling, pusing and merging
 
 Making another change on my local repo to test whehter it will tell me I am ahead again by running git status
+
+
+make a second change on line 33 to test if git fetch works

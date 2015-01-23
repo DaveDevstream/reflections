@@ -24,3 +24,5 @@ What is the benefit of having a copy of the last known state of the remote store
 
 you can quickly check how for ahead you are of it. 
 ###################
+
+Making a change to test fetching, pulling, pusing and merging
